@@ -6,13 +6,13 @@ manajemen simpanan, pinjaman, anggota, pegawai, dan tampilan dashboard yang info
 
 ## 📌 Spesifikasi Proyek
 
-| Komponen        | Teknologi                             |
-|----------------|----------------------------------------|
-| Framework      | [CodeIgniter 3](https://codeigniter.com) |
-| Bahasa Pemrograman | PHP v8.1                          |
-| Database       | MySQL (MariaDB)                        |
-| Web Server     | Apache (via XAMPP)                     |
-| Basis Data     | RDBMS                                  |
+| 💻 Komponen         | 🛠️ Teknologi                                                                 |
+|---------------------|------------------------------------------------------------------------------|
+| ⚙️ Framework        | ![CI3](https://img.shields.io/badge/CodeIgniter-3-red?logo=codeigniter) [CodeIgniter 3](https://codeigniter.com) |
+| 🧠 Bahasa Pemrograman | ![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php) PHP v8.1                      |
+| 🛢️ Database         | ![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?logo=mysql&logoColor=white) MariaDB |
+| 🌐 Web Server       | ![Apache](https://img.shields.io/badge/Apache-2.4-darkred?logo=apache) Apache (via XAMPP) |
+| 🧮 Basis Data       | ![RDBMS](https://img.shields.io/badge/RDBMS-Relational-blue) RDBMS                        |
 
 ---
 
