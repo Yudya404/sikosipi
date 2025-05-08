@@ -8,7 +8,7 @@ manajemen simpanan, pinjaman, anggota, pegawai, dan tampilan dashboard yang info
 
 | 💻 Komponen         | 🛠️ Teknologi                                                                 |
 |---------------------|------------------------------------------------------------------------------|
-| ⚙️ Framework        | ![CI3](https://img.shields.io/badge/CodeIgniter-3-red?logo=codeigniter) [CodeIgniter 3](https://codeigniter.com) |
+| ⚙️ Framework        | ![CI3](https://img.shields.io/badge/CodeIgniter-3-red?logo=codeigniter) CodeIgniter 3 |
 | 🧠 Bahasa Pemrograman | ![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php) PHP v8.1                      |
 | 🛢️ Database         | ![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?logo=mysql&logoColor=white) MariaDB |
 | 🌐 Web Server       | ![Apache](https://img.shields.io/badge/Apache-2.4-darkred?logo=apache) Apache (via XAMPP) |
