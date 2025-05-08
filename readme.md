@@ -83,7 +83,11 @@ Menampilkan ringkasan data simpanan, pinjaman, anggota aktif, dan notifikasi.
 Pull request dan saran pengembangan sangat disambut! Jangan ragu untuk fork dan modifikasi proyek ini.
 
 📃 Lisensi
-Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran atau pengembangan lebih lanjut. Silakan cantumkan kredit kepada pengembang asli bila digunakan secara publik.
+Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran atau pengembangan lebih lanjut. 
+Silakan cantumkan kredit kepada pengembang asli bila digunakan secara publik.
+
+🙋‍♂️ Kontak Pengembang
+📧 Email: [yudyasukma2@gmail.com]
 
 
 
